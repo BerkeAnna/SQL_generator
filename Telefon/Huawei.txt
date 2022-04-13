@@ -1,0 +1,15 @@
+P 20
+P 20 Lite
+P 20 Pro
+P 30
+P 30 Lite
+P 30 Pro
+P 40
+P 40 Lite
+P 40 Pro
+P 50
+P 50 Lite
+P 50 Pro
+P Smart
+Nova 9
+Nova 8

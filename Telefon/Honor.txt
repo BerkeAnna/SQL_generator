@@ -1,0 +1,7 @@
+50
+50 Lite
+8 A
+9 A
+8 Lie
+9 Lite
+50 A
